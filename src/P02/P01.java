@@ -15,7 +15,7 @@ public class P01 {
         String kelime= scan.nextLine();
 
         if(kelime.length()==4){
-            System.out.println("giridğiniz kelime geçersizdir");
+            System.out.println("giridğiniz kelime geçerlidir");
         }
 
     }
